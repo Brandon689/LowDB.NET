@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowDB.NET", "LowDB.NET\LowDB.NET.csproj", "{58A30BC8-DE68-43E1-B211-B148173F6E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowDB.NET.Try", "LowDB.NET.Try\LowDB.NET.Try.csproj", "{3F85343D-BE21-4E67-92FD-42A2FE086138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A30BC8-DE68-43E1-B211-B148173F6E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A30BC8-DE68-43E1-B211-B148173F6E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A30BC8-DE68-43E1-B211-B148173F6E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A30BC8-DE68-43E1-B211-B148173F6E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F85343D-BE21-4E67-92FD-42A2FE086138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F85343D-BE21-4E67-92FD-42A2FE086138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F85343D-BE21-4E67-92FD-42A2FE086138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F85343D-BE21-4E67-92FD-42A2FE086138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C43E17BF-2984-4CBD-8C02-BD3B44FF7419}
+	EndGlobalSection
+EndGlobal

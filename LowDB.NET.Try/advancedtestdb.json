@@ -1,0 +1,74 @@
+﻿{
+  "departments": [
+    {
+      "Id": 1,
+      "Name": "Engineering",
+      "Manager": {
+        "Id": 101,
+        "Name": "John Doe",
+        "Email": "john@example.com",
+        "Skills": []
+      },
+      "Employees": [
+        {
+          "Id": 201,
+          "Name": "Alice Smith",
+          "Email": "alice@example.com",
+          "Skills": [ "C#", "JavaScript", "SQL" ]
+        },
+        {
+          "Id": 202,
+          "Name": "Bob Johnson",
+          "Email": "bob@example.com",
+          "Skills": [ "Python", "Machine Learning" ]
+        }
+      ],
+      "Projects": [
+        {
+          "Id": 301,
+          "Name": "Project A",
+          "Budget": 100000,
+          "StartDate": "2024-06-05T12:00:00"
+        },
+        {
+          "Id": 302,
+          "Name": "Project B",
+          "Budget": 150000,
+          "StartDate": "2024-07-05T12:00:00"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Name": "Marketing",
+      "Manager": {
+        "Id": 102,
+        "Name": "Jane Smith",
+        "Email": "jane@example.com",
+        "Skills": []
+      },
+      "Employees": [
+        {
+          "Id": 203,
+          "Name": "Charlie Brown",
+          "Email": "charlie@example.com",
+          "Skills": [ "SEO", "Content Writing" ]
+        },
+        {
+          "Id": 204,
+          "Name": "Diana Prince",
+          "Email": "diana@example.com",
+          "Skills": [ "Social Media", "Graphic Design" ]
+        }
+      ],
+      "Projects": [
+        {
+          "Id": 303,
+          "Name": "Brand Campaign",
+          "Budget": 75000,
+          "StartDate": "2024-07-21T12:00:00"
+        }
+      ]
+    }
+  ]
+}

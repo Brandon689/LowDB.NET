@@ -11,4 +11,10 @@
     <ProjectReference Include="..\LowDB.NET\LowDB.NET.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="advancedtestdb.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
